@@ -1,0 +1,29 @@
+[
+  {
+	"name":"Electronics",
+	"items": [
+	  {"name":"Acer One 10 S1002-15XR ", "brand": "Acer", "price": "45000", "image":"images/lap1.jpg"},
+	  {"name":"Acer Iconia-6120 ", "brand": "Acer", "price": "55000", "image":"images/lap2.jpg"},
+	  {"name":"Dell Wireless Mouse", "brand": "Dell", "price": "2000","image":"images/mouse.jpg"},
+	  {"name":"Microsoft Wirless Keyboard ", "brand": "Microsoft", "price": "4500", "image":"images/keyboard.jpg"}
+  	]
+  },
+  {
+	"name":"Books",
+	"items": [
+	  {"name":"Miss Peregrine's Home for Peculiar Children", "price": "100","image":"images/book1.jpg"},
+	  {"name":"Short Stories from Hogwarts of Heroism, Hardship and Dangerous Hobbies", "price": "9000","image":"images/book2.jpg"},
+	  {"name":"Short Stories from Hogwarts of Power, Politics and Pesky Poltergeists", "price": "2300","image":"images/book3.jpg"},
+	  {"name":"The Fever Code (Maze Runner, Book Five; Prequel) (The Maze Runner Series)", "price": "4400","image":"images/book4.jpg"},
+	  {"name":"Magnus Chase and the Gods of Asgard, Book 2 The Hammer of Thor", "price": "4500","image":"images/book5.jpg"}
+	]
+  },
+  {
+	"name":"Clothes",
+	"items": [
+	  {"name":"Pants", "brand": "Levis", "price": "2000","image":"images/pants.jpeg"},
+	  {"name": "American Hawk Boys' Fleece Zip Front Hoodie", "brand":"Tommy Hilfiger", "price": "5000","image":"images/jacket.jpg" },
+	  {"name": "Teenage Mutant Ninja Turtles Boys' Characters Hoodie", "brand": "Louis Voutton", "price": "2560","image":"images/hoodie.jpeg"}
+	]
+  }
+]
